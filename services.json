@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Couple Photography",
+        "img": "https://photographyconcentrate.com/wp-content/uploads/Couple-Pose-scaled.jpg",
+        "rating":"4.3",
+        "price":"10000",
+        "details":"In this services you get 120 photo and an album,duration will be maximum 4hours. Your portrait session will be a reflection of your relationship. You NEED photos of the two of you besides the ones at your wedding or prom - but intentional photographs of the sweet moments in between.When you peek at the back of my camera to see how stunning you look after learning how to pose naturally, you’ll feel like magazine models!I'll have a detailed consultation to discuss clothing, location, and any other ideas you have. Preparation and communication are key, so be sure to fill out your questionnaire!."
+
+    },
+    {
+        "name":"BirthDay Photography",
+        "img": "https://www.ronniesainiphotography.com/wp-content/uploads/ocean-theme-boy-first-birthday-party-020.jpg",
+        "rating":"4.0",
+        "price":"8000",
+        "details":"In this services you get 200 photo,cinemagraphy and an album,duration will be maximum 6hours.This session of photography will be the greatest memory of your rest of life.Ours has a lot of satisfied customer whose are took our services before.You can choice your style of potrait and style .and you can also consultation to discuss about your clothing and location"
+
+    },
+    {
+        "name":"Fashion Photography",
+        "img": "https://i.pinimg.com/originals/ec/6f/37/ec6f3784aa2740c7f7dd70ee5c02f352.jpg",
+        "rating":"4.5",
+        "price":"15000",
+        "details":"The category of fashion photography services you get 150 photo and an album,duration will be maximum 6hours.In this services you can focus any kinds of clothing and items.You can locate you warehouse and fashion house,but if you decided to select outdoor location the demand charge will be added.all of the lighting and other arrangment will provided with this services .special discount given with short time duration and page publised right"
+
+    },
+    {
+        "name":"Architectural Photography ",
+        "img": "https://www.format.com/wp-content/uploads/how-to-photography-architecture.jpg",
+        "rating":"3.8",
+        "price":"12000",
+        "details":"To attractive view capture of your properties or appartment or historical place you can get Architectural Photography services.In this services you get 200 photo and an album,duration will be maximum 10hours.If it will be out of the city charge will be added more respective by distance.The client has to give details information before booking this services.charge will be increase also for interior capture.This combination of using natural light and artificial light is sometimes described as flambient lighting - a combination of the words flash and ambient. The key is not letting one of the light sources over power the other. If used properly and blended well in post-processing, the result is the best lighting possible for interior photography"
+
+    },
+    {
+        "name":" Pet Photography ",
+        "img": "https://dvyvvujm9h0uq.cloudfront.net/com/articles/1586257517-347372-pet-photography-1jpg.jpg",
+        "rating":"4.2",
+        "price":"4000",
+        "details":"The category of pet photography services you get 150 photo and an album,duration will be maximum 6hours.It captures the pet's personality, character, habits, and other memorable moments.different types of pet will be different charge.outdoor shooting will be add extra demand charge.Different types of custum will not provide by the photographer.the owner will have to provide the all of the custume of his pet"
+
+    },
+    {
+        "name":"Product Photography",
+        "img": "https://baboodigital.com/wp-content/uploads/2018/07/product-photography-comprehensive-guide.jpg",
+        "rating":"4.4",
+        "price":"7000",
+        "details":"Product photography services including with .Product photography is any image of a good for sale. Also known as commercial photography, these images are meant to entice shoppers to purchase the photographed products. They feature product details and features, supplemental to written copy and product descriptions.he photos are used for online and print catalogs, as well as for labels and packaging. Most product photography is studio based, with careful control of backgrounds, shadows, and lighting. "
+
+    }
+]
